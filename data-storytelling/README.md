@@ -69,8 +69,6 @@ You can use a simple local server:
 # Python 3
 python -m http.server 8000
 
-# Node.js
-npx http-server
 ```
 
 Then visit: [http://localhost:8000](http://localhost:8000) in your browser.
