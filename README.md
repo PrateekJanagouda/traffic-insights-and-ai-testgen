@@ -8,9 +8,7 @@ Transform & analyze the hourly data (totals, peaks, moving average, anomalies).
 
 Build an interactive dashboard: overview cards, line chart (upward/downward), stacked bar or area, hour heatmap, peak-hour highlights and anomaly list.
 
-Write README that tells the data story and why UI choices were made.
-
-Task 2 — AI Test Generator
+**Task 2 — AI Test Generator**
 
 Build a small Node.js CLI/web endpoint that sends the code snippet to an LLM and returns generated tests.
 
