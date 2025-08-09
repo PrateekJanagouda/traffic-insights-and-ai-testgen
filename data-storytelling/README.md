@@ -121,7 +121,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Your Name  
+Prateek Janagouda  
 [GitHub Profile](https://github.com/PrateekJanagouda)
 
 ---
