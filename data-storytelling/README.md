@@ -122,8 +122,6 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 Your Name  
-[GitHub Profile](https://github.com/your-username)
+[GitHub Profile](https://github.com/PrateekJanagouda)
 
 ---
-
-> _If you want, I can also **add screenshots of the dashboard** in the README so it looks more professional. Would you like me to prepare that next?_
