@@ -1,0 +1,13 @@
+{
+    "busier_direction": "Upward",
+    "total_upward": 8800,
+    "total_downward": 7980,
+    "peak_hour": "17:00",
+    "peak_total": 1550,
+    "low_hour": "02:00",
+    "low_total": 110,
+    "anomalies": [
+        "17:00",
+        "18:00"
+    ]
+}

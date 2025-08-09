@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>🚦 Real-Time Traffic Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@1.1.0"></script>
+</head>
+<body>
+    <header>
+        <h1>🚦 Real-Time Traffic Analytics</h1>
+    </header>
+
+    <main>
+        <!-- KPI Cards -->
+        <section class="kpi-section">
+            <div class="kpi-card">
+                <h3>Total Vehicles</h3>
+                <p id="totalVehicles">0</p>
+            </div>
+            <div class="kpi-card">
+                <h3>Peak Hour</h3>
+                <p id="peakHour">--</p>
+            </div>
+            <div class="kpi-card">
+                <h3>Anomaly Count</h3>
+                <p id="anomalyCount">0</p>
+            </div>
+        </section>
+
+        <!-- Line Chart -->
+        <section class="chart-section">
+            <h2>Hourly Traffic (Total)</h2>
+            <canvas id="trafficChart" width="800" height="400"></canvas>
+        </section>
+
+        <!-- Bar Chart -->
+        <section class="chart-section">
+            <h2>Traffic Direction Breakdown</h2>
+            <canvas id="directionChart" width="800" height="400"></canvas>
+        </section>
+    </main>
+
+    <footer>
+        <p>Data provided by Bosch API | Dashboard by Your Name</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
