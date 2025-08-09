@@ -1,4 +1,4 @@
-Task 1 — Data dashboard
+**Task 1 — Data dashboard**
 
 Create a React app (Vite or CRA). I’ll use Vite in examples (faster).
 
